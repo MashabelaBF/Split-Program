@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split.Library", "Split.Library\Split.Library.csproj", "{143A0625-D29B-46B8-BEBF-7E4762917D76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split.ConsoleApp", "Split.Console\Split.ConsoleApp.csproj", "{AD5C5141-8C27-4801-809D-46F8F63BC291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{143A0625-D29B-46B8-BEBF-7E4762917D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143A0625-D29B-46B8-BEBF-7E4762917D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143A0625-D29B-46B8-BEBF-7E4762917D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143A0625-D29B-46B8-BEBF-7E4762917D76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD5C5141-8C27-4801-809D-46F8F63BC291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5C5141-8C27-4801-809D-46F8F63BC291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5C5141-8C27-4801-809D-46F8F63BC291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5C5141-8C27-4801-809D-46F8F63BC291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1AC59F6-D8BF-41E7-9063-31F8269E14C7}
+	EndGlobalSection
+EndGlobal

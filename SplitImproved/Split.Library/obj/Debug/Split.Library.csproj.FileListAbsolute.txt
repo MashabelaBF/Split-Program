@@ -1,0 +1,12 @@
+C:\Development\Sandbox\Brian_Split\Split.Library\bin\Debug\Split.Library.dll
+C:\Development\Sandbox\Brian_Split\Split.Library\bin\Debug\Split.Library.pdb
+C:\Development\Sandbox\Brian_Split\Split.Library\obj\Debug\Split.Library.csprojAssemblyReference.cache
+C:\Development\Sandbox\Brian_Split\Split.Library\obj\Debug\Split.Library.csproj.CoreCompileInputs.cache
+C:\Development\Sandbox\Brian_Split\Split.Library\obj\Debug\Split.Library.dll
+C:\Development\Sandbox\Brian_Split\Split.Library\obj\Debug\Split.Library.pdb
+D:\Users\Bran.mashabela\source\repos\SplitImproved\Split.Library\obj\Debug\Split.Library.dll
+D:\Users\Bran.mashabela\source\repos\SplitImproved\Split.Library\obj\Debug\Split.Library.pdb
+D:\Users\Bran.mashabela\source\repos\SplitImproved\Split.Library\bin\Debug\Split.Library.dll
+D:\Users\Bran.mashabela\source\repos\SplitImproved\Split.Library\bin\Debug\Split.Library.pdb
+D:\Users\Bran.mashabela\source\repos\SplitImproved\Split.Library\obj\Debug\Split.Library.csprojAssemblyReference.cache
+D:\Users\Bran.mashabela\source\repos\SplitImproved\Split.Library\obj\Debug\Split.Library.csproj.CoreCompileInputs.cache
